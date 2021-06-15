@@ -14,7 +14,7 @@ Connect existing frontend with backend api's, server, and database.
 A Develop folder containing a config file, schema.sql for database creation, models (tables) for the DB, api routes (for Category, Product, and Product Tags), seeds (data) for the DB, Env file, package.json file, and server.js file.
 
 ## Video Demo
-https://drive.google.com/file/d/1is_gAcAtmmRrNRWAAAOG0uPQaD1BYRMi/view
+https://drive.google.com/file/d/1QFtHPuzEOR28602WB81Kute7-C0cD9hg/view
 
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/DragoonKite/e-commerce-back-end)
 
